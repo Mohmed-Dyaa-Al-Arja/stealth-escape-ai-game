@@ -1,0 +1,1 @@
+"""Stealth Escape AI Game."""
