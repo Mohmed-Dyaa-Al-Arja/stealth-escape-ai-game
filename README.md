@@ -45,6 +45,13 @@ Implemented from scratch in Python (no pathfinding libraries):
 
 ## Installation
 
+### Clone
+
+```bash
+git clone https://github.com/<your-username>/stealth-escape-ai-game.git
+cd stealth-escape-ai-game
+```
+
 ### Prerequisites
 
 - Python **3.10+** (Python 3.10/3.11 recommended for easiest pygame install on Windows)
@@ -52,7 +59,6 @@ Implemented from scratch in Python (no pathfinding libraries):
 ### Windows (PowerShell)
 
 ```powershell
-cd D:\un\AI\PLAYPRO
 python -m venv .venv
 .\.venv\Scripts\pip install -r requirements.txt
 ```
