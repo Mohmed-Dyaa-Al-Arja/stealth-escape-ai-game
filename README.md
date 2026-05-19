@@ -145,8 +145,4 @@ python -m venv .venv
 
 MIT License. See `LICENSE`.
 
-## Author
-
-- Name: (add your name)
-- Course: Artificial Intelligence (University Assignment)
 
