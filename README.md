@@ -135,14 +135,6 @@ python -m venv .venv
         └── vision.py
 ```
 
-## Screenshots
-
-Add your screenshots to this section after running the game.
-
-- Menu screen
-- Guard vision cone visualization
-- Chase mode with pathfinding overlays/debug output
-
 ## License
 
 MIT License. See `LICENSE`.
