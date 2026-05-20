@@ -48,7 +48,7 @@ Implemented from scratch in Python (no pathfinding libraries):
 ### Clone
 
 ```bash
-git clone https://github.com/<your-username>/stealth-escape-ai-game.git
+git clone https://github.com/Mohmed-Dyaa-Al-Arja/stealth-escape-ai-game.git
 cd stealth-escape-ai-game
 ```
 
